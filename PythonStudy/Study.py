@@ -25,34 +25,36 @@
 
 
 ### 5 ###
+#def greet(bob):
+#    return bob
+#bob = "hello bob"
+#def greet(john):
+#    return john
+#john = "hello john"
+#print(bob)
+#print(john)
 
-
-    
-
-    
-    
-    
-    
-    
-    
     
 ### 6 ###
-
 #temperature = input("temperature : ")
 #if temperature >= 72:
 #    print "too hot"
 #else:
 #    print "too cold";
 
-
-### 7 ###
-
-#import datetime
-#today = datetime.datetime.now()
-#print "Today: %s" % today.year,today.month,today.day
+### 8 ###
+imgurl = 'http://c1.img.netmarble.kr/web/netmarble/main/v/img/logo.gif'
 
 
 
+
+
+
+
+### 8 ###
+#import time
+#now = time.localtime()
+#print "today : %d-%d-%d %d:%d:%d" %(now.tm_year,now.tm_mon,now.tm_mday,now.tm_hour,now.tm_min,now.tm_sec)
 
 
 
